@@ -87,8 +87,9 @@ p{
 
 a{
     color:rgb(247, 102, 150);
-    
+    text-decoration:none;
 }
+a:hover{text-decoration:underline;}
 
 .line{
     margin: auto;
